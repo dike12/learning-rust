@@ -31,7 +31,7 @@ The projects are grouped by chapter blocks. Inside each block, you'll find indiv
 └── chapter_14-20_projects
 ```
 
-## ⚠️ DISCLAIMER (For the CS Pedants)
+## ⚠️ DISCLAIMER (For the Purists)
 
 **Please read before opening an issue telling me my code isn't "idiomatic."**
 
